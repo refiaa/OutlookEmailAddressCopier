@@ -12,11 +12,12 @@
 2. Add script to your browser
 
 3. 
-![スクリーンショット 2024-04-03 173509](https://github.com/refiaa/OutlookEmailCopy/assets/112306763/22c7de57-d0bb-4e21-b976-242431fbcc4c)
+
+![1](https://github.com/refiaa/OutlookEmailAddressCopier/assets/112306763/7418fb6e-920f-4679-8f0d-654773091618)
 
 Hover over the email address and click.
 
-![スクリーンショット 2024-04-03 173514](https://github.com/refiaa/OutlookEmailCopy/assets/112306763/68128075-26fa-4c70-9158-6bd311284b5d)
+![1](https://github.com/refiaa/OutlookEmailAddressCopier/assets/112306763/fa85c2fe-c925-4d41-b9f6-97336f2ab57c)
 
 It will be copied to the clipboard.
 
